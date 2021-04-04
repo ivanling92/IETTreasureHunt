@@ -1,6 +1,7 @@
 # IETTreasureHunt
 
 #Sample Level 3: Map hunt!
+Passphrase: r1ver0fma0ng
 
 Now, you've almost reached the end of the demo level!
 
